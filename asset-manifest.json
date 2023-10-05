@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fundamental-of-react/static/css/main.d84d04be.css",
+    "main.js": "/fundamental-of-react/static/js/main.b053cb09.js",
+    "static/media/book-2.jpg": "/fundamental-of-react/static/media/book-2.4e6b8c0ea4a04a3c9f66.jpg",
+    "static/media/book-1.jpg": "/fundamental-of-react/static/media/book-1.ab0d1d4f673dbe628c93.jpg",
+    "static/media/book-5.jpg": "/fundamental-of-react/static/media/book-5.95c8c558079a8e452d76.jpg",
+    "static/media/book-3.jpg": "/fundamental-of-react/static/media/book-3.a320775d1717b8950be7.jpg",
+    "static/media/book-4.jpg": "/fundamental-of-react/static/media/book-4.dc2642ac917b6455d41a.jpg",
+    "index.html": "/fundamental-of-react/index.html",
+    "main.d84d04be.css.map": "/fundamental-of-react/static/css/main.d84d04be.css.map",
+    "main.b053cb09.js.map": "/fundamental-of-react/static/js/main.b053cb09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84d04be.css",
+    "static/js/main.b053cb09.js"
+  ]
+}
